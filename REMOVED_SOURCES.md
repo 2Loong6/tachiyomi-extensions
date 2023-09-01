@@ -1,9 +1,18 @@
+**There is no timetable on when or if a source request may be filled (also applies to bug reports and enhancement requests).**
+
+### In General the following sources that won't be added as an extension
+- In general heavily paywalled sites
+- Sources that require cracking some app's source code (realistically, no one's going to put in the effort to do it)
+- Sources that are known for filling a lot of DMCA complaints over repositories on GitHub
+
+Here is a list of known sources that were removed.
 ## Removed sources
 
 ### Too difficult to maintain
 
 - ColaManhua (COLA漫画) https://github.com/tachiyomiorg/tachiyomi-extensions/pull/11445
 - Comikey https://github.com/tachiyomiorg/tachiyomi-extensions/pull/11971
+- Constellar Scans https://github.com/tachiyomiorg/tachiyomi-extensions/pull/17277
 - CopyManga (拷贝漫画) https://github.com/tachiyomiorg/tachiyomi-extensions/pull/12376
 - Cứu Truyện https://github.com/tachiyomiorg/tachiyomi-extensions/pull/16654
 - Hentai Kai https://github.com/tachiyomiorg/tachiyomi-extensions/issues/9999
@@ -30,7 +39,6 @@
 
 - ARES Manga https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15396
 - Astra Scans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13845
-- Coven Scan https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14499
 - Gourmet Scans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/6192
 - Hikari Scans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/6611
 - Hunter Scans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/12392
@@ -39,8 +47,10 @@
 - KomikTap/KomikTap.in https://github.com/tachiyomiorg/tachiyomi-extensions/issues/6133
 - Luminous Scans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/9923
 - MangaPro https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13989
+- MangaSY https://github.com/tachiyomiorg/tachiyomi-extensions/issues/12007
 - Mangawow https://github.com/tachiyomiorg/tachiyomi-extensions/issues/5367
 - MHScans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15319
+- Mono Manga https://github.com/tachiyomiorg/tachiyomi-extensions/issues/17634
 - NarTag https://github.com/tachiyomiorg/tachiyomi-extensions/issues/8038
 - Plot-twistnf-scans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/4242
 - Realm Scans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15586
